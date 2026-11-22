@@ -4,15 +4,20 @@
 
 ## 배포
 
-- **URL**: https://gynleedev.github.io
+- **URL**: https://gynleedev.github.io/portfolio/
+- 루트(https://gynleedev.github.io)는 `/portfolio/`로 자동 이동
 - `main` 브랜치에 푸시하면 1~2분 내 반영됨
 
 ## 구조
 
 ```
-index.html   # 레이아웃 · 스타일 · 렌더링 (단일 페이지)
-data.js      # 내용 데이터 (이름, 기술, 프로젝트, 소개, 연락처) — 내용 수정은 여기서
+index.html             # 루트 → /portfolio/ 로 이동시키는 페이지
+portfolio/
+├── index.html         # 레이아웃 · 스타일 · 렌더링 (단일 페이지)
+└── data.js            # 내용 데이터 (이름, 기술, 프로젝트, 소개, 연락처) — 내용 수정은 여기서
 README.md
+
+새 페이지는 폴더/index.html 로 추가 → gynleedev.github.io/폴더이름
 ```
 
 ## 디자인 시스템 — Ribbon & Pearl

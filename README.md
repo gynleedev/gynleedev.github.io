@@ -4,7 +4,7 @@
 
 > 맡은 일은 리본처럼 단단히 묶어, 끝까지 책임집니다.
 
-🔗 **https://gynleedev.github.io**
+🔗 **https://gynleedev.github.io/portfolio/**
 
 ---
 
@@ -57,6 +57,7 @@
 ## 기술 스택
 
 - HTML / CSS / JavaScript (정적 사이트)
+- 포트폴리오 파일은 `portfolio/` 폴더에 있습니다 (`index.html` 화면, `data.js` 내용)
 - GitHub Pages 배포
 
 ## 배포
