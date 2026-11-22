@@ -72,5 +72,5 @@ git push origin main
 ## 연락
 
 - GitHub: [@gynleedev](https://github.com/gynleedev)
-- Email: [YOUR EMAIL]
+- Email: [gynlee.dev@gmail.com](mailto:gynlee.dev@gmail.com)
 - Blog: youniverse-log
